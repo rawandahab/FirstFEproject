@@ -1,6 +1,5 @@
 # FirstFEproject
 Multi-section perfume brand landing page built with HTML &amp; CSS
-
 This is my first frontend project built using HTML5 and CSS3.
 
 ## Features
